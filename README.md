@@ -1,2 +1,6 @@
 # Case Study on Emmy Awards Sentiment Analysis
-This repository contains data, code, a case study overview, and a rubric ...
+## Contents:
+- DATA:
+- CODE:
+- Case Overview:
+- Rubric: 
