@@ -1,9 +1,10 @@
 # Case Study on Emmy Awards Prediction Model
 ## Contents:
 1. Case Overview:
-2. CODE:
-3. Case Overview:
-4. Rubric: 
+2. DATA:
+3. CODE:
+4. Rubric:
+5. ARTICLES: 
 
 ## References:
 [1] Chatgpt, https://openai.com/chatgpt/ (accessed Sep. 25, 2024).
