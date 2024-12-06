@@ -1,7 +1,7 @@
 # Case Study on Emmy Awards Prediction Model
 ## Contents:
-1. Case Overview:
-2. DATA:
+1. Case Overview: A pdf that should make a 2nd year UVA student excited to engage with my case study
+2. DATA: 
 3. CODE:
 4. Rubric:
 5. ARTICLES: 
