@@ -1,4 +1,4 @@
-# Case Study on Emmy Awards Sentiment Analysis
+# Case Study on Emmy Awards Prediction Model
 ## Contents:
 1. Case Overview:
 2. CODE:
